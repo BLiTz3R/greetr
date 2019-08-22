@@ -1,4 +1,4 @@
-;
+; // to ensure all previous scripts are terminated
 (function (global, $) {
 
     // 'new' an object
